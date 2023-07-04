@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning HTML and UI/UX 
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on projects and designing
-- 📫 How to reach me 
+- 📫 How to reach me - https://www.linkedin.com/in/shruti-bisht and also through Instagram- _whydontyoutoss_
 
 <!---
 shrutibisht14/shrutibisht14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
